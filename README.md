@@ -23,7 +23,7 @@ Start-Up
 
 Contact
 ======
-contact me under: constantin.popp@gmail.com if you have questions
+contact me under: constantin.popp ---at--- gmail.com if you have questions.
 
 
 License
