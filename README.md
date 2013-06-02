@@ -10,10 +10,13 @@ Installation
 ============
 - have Max/MSP 5/6 ready (or otherwise obtain from www.cycling74.com)
 - add the MantisDiffusionSystem folder to Max's search path
+- obtain copy of osc-route and OpenSoundControl max objects from CNMAT:
+  http://cnmat.berkeley.edu/patch/4029  and http://cnmat.berkeley.edu/patch/4059 .
 - if you want to use the spectrum analyser, please update the path to voxengo's 
   "SPAN" (http://www.voxengo.com/product/span/) in the patch /spec/specdisplay2.maxpat
 - if you want to use the EBU-meter, please purchase tonebooster's "EBULoudness" 
   (http://www.toneboosters.com/tb-ebuloudness/) in the patch /spec/ebu128display2.maxpat
+
   
 Start-Up
 ========
