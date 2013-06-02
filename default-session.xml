@@ -1,0 +1,2673 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "difsysGlobalPreset">
+	<slot number = "1" name = "defaulti">
+		<patcher name = "fader-routing">
+			<pattr name = "smoothingtime" value = "3." />
+			<patcher name = "channel-router">
+				<pattr name = "channel-ass" value = "1" />
+			</patcher>
+			<patcher name = "channel-router[1]">
+				<pattr name = "channel-ass" value = "1" />
+			</patcher>
+			<patcher name = "channel-router[3]">
+				<pattr name = "channel-ass" value = "2" />
+			</patcher>
+			<patcher name = "channel-router[2]">
+				<pattr name = "channel-ass" value = "2" />
+			</patcher>
+			<patcher name = "channel-router[7]">
+				<pattr name = "channel-ass" value = "3" />
+			</patcher>
+			<patcher name = "channel-router[6]">
+				<pattr name = "channel-ass" value = "3" />
+			</patcher>
+			<patcher name = "channel-router[5]">
+				<pattr name = "channel-ass" value = "4" />
+			</patcher>
+			<patcher name = "channel-router[4]">
+				<pattr name = "channel-ass" value = "4" />
+			</patcher>
+			<patcher name = "channel-router[15]">
+				<pattr name = "channel-ass" value = "5" />
+			</patcher>
+			<patcher name = "channel-router[14]">
+				<pattr name = "channel-ass" value = "5" />
+			</patcher>
+			<patcher name = "channel-router[13]">
+				<pattr name = "channel-ass" value = "6" />
+			</patcher>
+			<patcher name = "channel-router[12]">
+				<pattr name = "channel-ass" value = "6" />
+			</patcher>
+			<patcher name = "channel-router[11]">
+				<pattr name = "channel-ass" value = "7" />
+			</patcher>
+			<patcher name = "channel-router[10]">
+				<pattr name = "channel-ass" value = "7" />
+			</patcher>
+			<patcher name = "channel-router[9]">
+				<pattr name = "channel-ass" value = "8" />
+			</patcher>
+			<patcher name = "channel-router[8]">
+				<pattr name = "channel-ass" value = "8" />
+			</patcher>
+			<patcher name = "channel-router[23]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[22]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[21]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[20]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[19]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[18]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[17]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[16]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[24]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[31]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[30]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[29]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[28]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[27]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[26]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[25]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[39]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[38]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[37]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[36]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[35]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[34]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[33]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[32]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[71]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[70]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[69]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[68]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[67]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[66]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[65]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[64]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[63]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[62]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[61]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[60]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[59]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[58]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[57]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[56]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[55]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[54]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[53]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[52]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[51]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[50]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[49]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[48]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[47]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[46]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[45]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[44]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[43]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[42]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[41]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[40]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "faders">
+				<patcher name = "scaler-per-fader[30]">
+					<pattr name = "faderValMain" value = "1." />
+				</patcher>
+				<patcher name = "scaler-per-fader[29]">
+					<pattr name = "faderValMain" value = "0.854839" />
+				</patcher>
+				<patcher name = "scaler-per-fader[28]">
+					<pattr name = "faderValMain" value = "0.75" />
+				</patcher>
+				<patcher name = "scaler-per-fader[27]">
+					<pattr name = "faderValMain" value = "0.637097" />
+				</patcher>
+				<patcher name = "scaler-per-fader[26]">
+					<pattr name = "faderValMain" value = "0.564516" />
+				</patcher>
+				<patcher name = "scaler-per-fader[25]">
+					<pattr name = "faderValMain" value = "0.447581" />
+				</patcher>
+				<patcher name = "scaler-per-fader[24]">
+					<pattr name = "faderValMain" value = "0.342742" />
+				</patcher>
+				<patcher name = "scaler-per-fader[23]">
+					<pattr name = "faderValMain" value = "0.270161" />
+				</patcher>
+				<patcher name = "scaler-per-fader[22]">
+					<pattr name = "faderValMain" value = "0.193548" />
+				</patcher>
+				<patcher name = "scaler-per-fader[21]">
+					<pattr name = "faderValMain" value = "0.145161" />
+				</patcher>
+				<patcher name = "scaler-per-fader[20]">
+					<pattr name = "faderValMain" value = "0.064516" />
+				</patcher>
+				<patcher name = "scaler-per-fader[19]">
+					<pattr name = "faderValMain" value = "0.028226" />
+				</patcher>
+				<patcher name = "scaler-per-fader[18]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[17]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[16]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[15]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[14]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[13]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[12]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[11]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[10]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[9]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[8]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[7]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[6]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[5]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[4]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[3]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[2]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[1]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-for-master-fader">
+					<pattr name = "faderValMain" value = "0.58871" />
+				</patcher>
+				<patcher name = "scaler-per-fader[38]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[37]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[36]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[35]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[34]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[33]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[32]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[31]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[46]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[45]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[44]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[43]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[42]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[41]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[40]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[39]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[54]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[53]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[52]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[51]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[50]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[49]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[48]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[47]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[62]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[61]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[60]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[59]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[58]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[57]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[56]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[55]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "channel-router[79]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[78]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[77]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[76]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[75]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[74]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[73]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[72]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[87]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[86]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[85]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[84]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[83]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[82]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[81]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[80]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[95]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[94]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[93]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[92]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[91]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[90]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[89]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+			<patcher name = "channel-router[88]">
+				<pattr name = "channel-ass" value = "9" />
+			</patcher>
+		</patcher>
+		<patcher name = "mainFilterControl">
+			<pattr name = "editLoF" value = "339." />
+			<pattr name = "editLoG" value = "0.262" />
+			<pattr name = "editMiF" value = "136.289093" />
+			<pattr name = "editMiG" value = "0.74685" />
+			<pattr name = "editMiQ" value = "0.549793" />
+			<pattr name = "editHiF" value = "529.330933" />
+			<pattr name = "editHiG" value = "0.60748" />
+		</patcher>
+		<patcher name = "channelControl">
+			<pattr name = "chLoF" value = "216.5" />
+			<pattr name = "chLoG" value = "0.068644" />
+			<pattr name = "chLOn" value = "1" />
+			<pattr name = "chMiF" value = "136.289093" />
+			<pattr name = "chMiG" value = "0.557785" />
+			<pattr name = "chMiQ" value = "0.549793" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "529.330933" />
+			<pattr name = "chHiG" value = "0.369032" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "3bandEqChannelControl[25]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+		</patcher>
+		<patcher name = "3bandEqChannelControl[26]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+		</patcher>
+		<patcher name = "mcontrol">
+			<pattr name = "matrix" value = "0 0 1 16 0 1 17 1 1 18 2 1 19 3 1 20 4 1 21 5 1 22 6 1 23 7 1 24 8 1 25 9 1 26 10 1 27 11 1 28 12 1 29 13 1 30 14 1 31 15 1" />
+		</patcher>
+		<patcher name = "audio">
+			<patcher name = "player">
+				<patcher name = "playback-stuff">
+					<pattr name = "soundfileSplit" value = "0" />
+					<pattr name = "soundfileSplit[1]" value = "0" />
+					<pattr name = "soundfileSplit[2]" value = "0" />
+					<pattr name = "soundfileSplit[3]" value = "0" />
+					<pattr name = "soundfileSplit[4]" value = "0" />
+					<pattr name = "soundfileSplit[5]" value = "0" />
+					<pattr name = "soundfileSplit[6]" value = "0" />
+					<pattr name = "soundfileSplit[7]" value = "0" />
+					<pattr name = "soundfileInterleaved" value = "0" />
+				</patcher>
+			</patcher>
+			<patcher name = "userDefMatrixCtrl">
+				<pattr name = "userDefMatrixCtrl" value = "0 0 1 1 1 1 2 2 1 3 3 1 4 4 1 5 5 1 6 6 1 7 7 1 8 8 1 9 9 1 10 10 1 11 11 1 12 12 1 13 13 1 14 14 1 15 15 1 16 16 1 17 17 1 18 18 1 19 19 1 20 20 1 21 21 1 22 22 1 23 23 1 24 24 1 25 25 1 26 26 1 27 27 1 28 28 1 29 29 1 30 30 1 31 31 1 32 32 1 33 33 1 34 34 1 35 35 1 36 36 1 37 37 1 38 38 1 39 39 1 40 40 1 41 41 1 42 42 1 43 43 1 44 44 1 45 45 1 46 46 1 47 47 1 48 48 1 49 49 1 50 50 1 51 51 1 52 52 1 53 53 1 54 54 1 55 55 1" />
+			</patcher>
+		</patcher>
+		<patcher name = "mcontrol[1]">
+			<pattr name = "matrix" value = "1 0 1" />
+		</patcher>
+		<patcher name = "mcontrol[2]">
+			<pattr name = "matrix" value = "2 0 1" />
+		</patcher>
+		<patcher name = "mcontrol[3]">
+			<pattr name = "matrix" value = "3 0 1 32 6 1 33 7 1" />
+		</patcher>
+		<patcher name = "channelControl[1]">
+			<pattr name = "chLoF" value = "216.5" />
+			<pattr name = "chLoG" value = "0.068644" />
+			<pattr name = "chLOn" value = "1" />
+			<pattr name = "chMiF" value = "136.289093" />
+			<pattr name = "chMiG" value = "0.557785" />
+			<pattr name = "chMiQ" value = "0.549793" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "529.330933" />
+			<pattr name = "chHiG" value = "0.369032" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[3]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[2]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[7]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[6]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[5]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[4]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[15]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[14]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[13]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[12]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[11]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[10]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[9]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[8]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[31]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[30]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[29]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[28]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[27]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[26]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[25]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[24]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[23]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[22]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[21]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[20]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[19]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[18]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[17]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[16]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[55]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[54]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[53]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[52]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[51]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[50]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[49]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[48]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[47]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[46]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[45]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[44]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[43]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[42]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[41]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[40]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[39]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[38]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[37]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[36]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[35]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[34]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[33]">
+			<pattr name = "chLoF" value = "339." />
+			<pattr name = "chLoG" value = "0.068644" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "136.289093" />
+			<pattr name = "chMiG" value = "0.557785" />
+			<pattr name = "chMiQ" value = "0.549793" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "529.330933" />
+			<pattr name = "chHiG" value = "0.369032" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[32]">
+			<pattr name = "chLoF" value = "339." />
+			<pattr name = "chLoG" value = "0.068644" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "136.289093" />
+			<pattr name = "chMiG" value = "0.557785" />
+			<pattr name = "chMiQ" value = "0.549793" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "529.330933" />
+			<pattr name = "chHiG" value = "0.369032" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+	</slot>
+	<slot number = "2" name = "test">
+		<patcher name = "fader-routing">
+			<pattr name = "smoothingtime" value = "3." />
+			<patcher name = "channel-router">
+				<pattr name = "channel-ass" value = "1" />
+			</patcher>
+			<patcher name = "channel-router[1]">
+				<pattr name = "channel-ass" value = "1" />
+			</patcher>
+			<patcher name = "channel-router[3]">
+				<pattr name = "channel-ass" value = "2" />
+			</patcher>
+			<patcher name = "channel-router[2]">
+				<pattr name = "channel-ass" value = "2" />
+			</patcher>
+			<patcher name = "channel-router[7]">
+				<pattr name = "channel-ass" value = "3" />
+			</patcher>
+			<patcher name = "channel-router[6]">
+				<pattr name = "channel-ass" value = "3" />
+			</patcher>
+			<patcher name = "channel-router[5]">
+				<pattr name = "channel-ass" value = "4" />
+			</patcher>
+			<patcher name = "channel-router[4]">
+				<pattr name = "channel-ass" value = "4" />
+			</patcher>
+			<patcher name = "channel-router[15]">
+				<pattr name = "channel-ass" value = "5" />
+			</patcher>
+			<patcher name = "channel-router[14]">
+				<pattr name = "channel-ass" value = "5" />
+			</patcher>
+			<patcher name = "channel-router[13]">
+				<pattr name = "channel-ass" value = "6" />
+			</patcher>
+			<patcher name = "channel-router[12]">
+				<pattr name = "channel-ass" value = "6" />
+			</patcher>
+			<patcher name = "channel-router[11]">
+				<pattr name = "channel-ass" value = "7" />
+			</patcher>
+			<patcher name = "channel-router[10]">
+				<pattr name = "channel-ass" value = "7" />
+			</patcher>
+			<patcher name = "channel-router[9]">
+				<pattr name = "channel-ass" value = "8" />
+			</patcher>
+			<patcher name = "channel-router[8]">
+				<pattr name = "channel-ass" value = "8" />
+			</patcher>
+			<patcher name = "channel-router[23]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[22]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[21]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[20]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[19]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[18]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[17]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[16]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[24]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[31]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[30]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[29]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[28]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[27]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[26]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[25]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[39]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[38]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[37]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[36]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[35]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[34]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[33]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[32]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[71]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[70]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[69]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[68]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[67]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[66]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[65]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[64]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[63]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[62]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[61]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[60]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[59]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[58]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[57]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[56]">
+				<pattr name = "input-ass" value = "10" />
+			</patcher>
+			<patcher name = "channel-router[55]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[54]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[53]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[52]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[51]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[50]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[49]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[48]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[47]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[46]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[45]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[44]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[43]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[42]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[41]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[40]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "faders">
+				<patcher name = "scaler-per-fader[30]">
+					<pattr name = "faderValMain" value = "0.802419" />
+				</patcher>
+				<patcher name = "scaler-per-fader[29]">
+					<pattr name = "faderValMain" value = "0.677419" />
+				</patcher>
+				<patcher name = "scaler-per-fader[28]">
+					<pattr name = "faderValMain" value = "0.665323" />
+				</patcher>
+				<patcher name = "scaler-per-fader[27]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[26]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[25]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[24]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[23]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[22]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[21]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[20]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[19]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[18]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[17]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[16]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[15]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[14]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[13]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[12]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[11]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[10]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[9]">
+					<pattr name = "faderValMain" value = "0.439516" />
+				</patcher>
+				<patcher name = "scaler-per-fader[8]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[7]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[6]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[5]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[4]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[3]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[2]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[1]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-for-master-fader">
+					<pattr name = "faderValMain" value = "1." />
+				</patcher>
+				<patcher name = "scaler-per-fader[38]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[37]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[36]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[35]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[34]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[33]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[32]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[31]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[46]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[45]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[44]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[43]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[42]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[41]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[40]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[39]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[54]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[53]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[52]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[51]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[50]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[49]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[48]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[47]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[62]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[61]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[60]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[59]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[58]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[57]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[56]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+				<patcher name = "scaler-per-fader[55]">
+					<pattr name = "faderValMain" value = "0." />
+				</patcher>
+			</patcher>
+			<patcher name = "channel-router[79]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[78]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[77]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[76]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[75]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[74]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[73]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[72]">
+				<pattr name = "input-ass" value = "11" />
+			</patcher>
+			<patcher name = "channel-router[87]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[86]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[85]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[84]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[83]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[82]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[81]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[80]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[95]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[94]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[93]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[92]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[91]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[90]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[89]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+			<patcher name = "channel-router[88]">
+				<pattr name = "channel-ass" value = "0" />
+			</patcher>
+		</patcher>
+		<patcher name = "mainFilterControl">
+			<pattr name = "editLoF" value = "55.159073" />
+			<pattr name = "editLoG" value = "0.770079" />
+			<pattr name = "editMiF" value = "136.289093" />
+			<pattr name = "editMiG" value = "0.74685" />
+			<pattr name = "editMiQ" value = "0.549793" />
+			<pattr name = "editHiF" value = "529.330933" />
+			<pattr name = "editHiG" value = "0.60748" />
+		</patcher>
+		<patcher name = "channelControl">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "1" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "3bandEqChannelControl[25]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+		</patcher>
+		<patcher name = "3bandEqChannelControl[26]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+		</patcher>
+		<patcher name = "mcontrol">
+			<pattr name = "matrix" value = "0 0 1" />
+		</patcher>
+		<patcher name = "audio">
+			<patcher name = "player">
+				<patcher name = "playback-stuff">
+					<pattr name = "soundfileSplit" value = "0" />
+					<pattr name = "soundfileSplit[1]" value = "0" />
+					<pattr name = "soundfileSplit[2]" value = "0" />
+					<pattr name = "soundfileSplit[3]" value = "0" />
+					<pattr name = "soundfileSplit[4]" value = "0" />
+					<pattr name = "soundfileSplit[5]" value = "0" />
+					<pattr name = "soundfileSplit[6]" value = "0" />
+					<pattr name = "soundfileSplit[7]" value = "0" />
+					<pattr name = "soundfileInterleaved" value = "0" />
+				</patcher>
+			</patcher>
+			<patcher name = "userDefMatrixCtrl">
+				<pattr name = "userDefMatrixCtrl" value = "0 0 1 1 1 1 2 2 1 3 3 1 4 4 1 5 5 1 6 6 1 7 7 1 8 8 1 9 9 1 10 10 1 11 11 1 12 12 1 13 13 1 14 14 1 15 15 1 16 16 1 17 17 1 18 18 1 19 19 1 20 20 1 21 21 1 22 22 1 23 23 1 24 24 1 25 25 1 26 26 1 27 27 1 28 28 1 29 29 1 30 30 1 31 31 1 32 32 1 33 33 1 34 34 1 35 35 1 36 36 1 37 37 1 38 38 1 39 39 1 40 40 1 41 41 1 42 42 1 43 43 1 44 44 1 45 45 1 46 46 1 47 47 1 48 48 1 49 49 1 50 50 1 51 51 1 52 52 1 53 53 1 54 54 1 55 55 1" />
+			</patcher>
+		</patcher>
+		<patcher name = "mcontrol[1]">
+			<pattr name = "matrix" value = "1 0 1" />
+		</patcher>
+		<patcher name = "mcontrol[2]">
+			<pattr name = "matrix" value = "2 0 1 8 10 1 9 8 1 12 3 1 15 3 1 16 4 1 18 5 1 22 7 1 22 9 1 24 10 1 24 11 1 25 11 1 26 12 1 28 12 1 29 12 1 30 12 1 31 12 1" />
+		</patcher>
+		<patcher name = "mcontrol[3]">
+			<pattr name = "matrix" value = "3 0 1 11 3 1 11 4 1 12 3 1 13 2 1 14 2 1 16 2 1 17 2 1 18 2 1 19 2 1 21 2 1 22 3 1 24 3 1 25 4 1 26 4 1 27 4 1 29 4 1 30 4 1 31 4 1 33 3 1 33 4 1 34 3 1" />
+		</patcher>
+		<patcher name = "channelControl[1]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[3]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[2]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[7]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[6]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[5]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[4]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[15]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[14]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[13]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[12]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[11]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[10]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[9]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[8]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[31]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "1" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[30]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[29]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[28]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[27]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[26]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[25]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[24]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[23]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[22]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[21]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[20]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[19]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[18]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[17]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[16]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[55]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "1" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[54]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[53]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[52]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[51]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[50]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[49]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[48]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[47]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[46]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[45]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[44]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[43]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[42]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[41]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[40]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[39]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "1" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[38]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[37]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[36]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[35]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[34]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[33]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+		<patcher name = "channelControl[32]">
+			<pattr name = "chLoF" value = "162." />
+			<pattr name = "chLoG" value = "0.691" />
+			<pattr name = "chLOn" value = "0" />
+			<pattr name = "chMiF" value = "350.5" />
+			<pattr name = "chMiG" value = "0.728" />
+			<pattr name = "chMiQ" value = "1.47" />
+			<pattr name = "chMOn" value = "0" />
+			<pattr name = "chHiF" value = "866." />
+			<pattr name = "chHiG" value = "0.706" />
+			<pattr name = "chHOn" value = "0" />
+			<pattr name = "delayState" value = "0" />
+			<pattr name = "delayTime" value = "1" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
